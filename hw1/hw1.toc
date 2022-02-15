@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}安装VMware}{1}{section.1}%
+\contentsline {section}{\numberline {2}安装Ubuntu 20.04.3 LTS}{2}{section.2}%
+\contentsline {section}{\numberline {3}配置Ubuntu}{11}{section.3}%
+\contentsline {section}{\numberline {4}运行命令行}{14}{section.4}%

@@ -6,6 +6,7 @@ void main(){
 	int i;
 	char s[STR_LEN];
 	scanf("%s", s);
+
 #ifdef CONVERT
 	for(i = 0; i < STR_LEN; i++){
 		if(s[i] >= 65 && s[i] <= 90){
